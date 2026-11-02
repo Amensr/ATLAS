@@ -1,0 +1,19 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+.pytest_cache/
+.coverage
+dist/
+build/
+
+# Secrets
+.env
+config/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
